@@ -35,7 +35,7 @@ An interactive chatbot built using **LangChain**, **OpenAI GPT**, and **Streamli
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-sivarajes/conversational-chatbot.git
+git clone https://github.com/your-sivarajes/LLM_Chatbot/tree/main
 cd conversational-chatbot
 ```
 
